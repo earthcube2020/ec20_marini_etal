@@ -5,7 +5,9 @@
 A simple Jupyter Notebook to explore the Web service API available through http://ecgs.ncsa.illinois.edu/ and https://clowderframework.org/.
 To run this notebook there are two options:
 * Click on "launch binder" at the top to try them out at https://mybinder.org
+
 or follow these steps to run the notebook on your local machine:
+
 1. Install python 3 on your local machine (you can try anaconda for managing your environments)
 2. Create a virtual environment and install the `requirements.txt`
 3. Install Jupyter Notebook in the same virtual environment from the previous step
