@@ -9,7 +9,7 @@ There are two options to run this notebook:
 2. Follow these steps to run the notebook on your local machine:
 
 - Install python 3 on your local machine (you can try anaconda for managing your environments)
-- Create a virtual environment and install the `requirements.txt`
+- Create a virtual environment and install the `requirements.txt` (using your terminal, navigate to the location of the notebook and run the command `pip install -r requirements.txt`
 - Install Jupyter Notebook in the same virtual environment from the previous step
 - Run the notebook `ecgs.ipynb` using `jupyter-lab` or `jupyter-notebook`.
 
